@@ -1,0 +1,8 @@
+.nav-pills li a:hover{
+    background-color: green;
+}
+body{
+    background-image: url('assets/27958.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}

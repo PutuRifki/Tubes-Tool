@@ -1,0 +1,89 @@
+.warna1{
+background-color: darkgray;
+}
+.warna2{
+background-color: green;
+}
+.warna3{
+background-color: green;
+}
+.warna4{
+background-color: white;
+}
+
+.banner{
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('assets/KategoriCustom.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner-produk{
+    height: 45vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('assets/KategoriCustom.jpg');
+    background-repeat: no-repeat;
+}
+.highlighted-kategori{
+   height: 250px;
+}
+.kategori-bike-classic{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('imginput/agMf2xZDfhaVSlOczAal.jpg');
+    background-repeat: no-repeat;
+    background-image: cover;
+    background-position: center;
+}
+.kategori-bike-touring{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('assets/KategoriMotoCross.jpg');
+    background-repeat: no-repeat;
+    background-image: cover;
+    background-position: center;
+}
+.kategori-bike-motocross{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('assets/BERITA_1673834006_cbca9468d1db4bc370db933d4b148eb8.jpg');
+    background-repeat: no-repeat;
+    background-image: cover;
+    background-position: center;
+}
+.kategori-bike-electric{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('assets/KategoriCustom.jpg');
+    background-repeat: no-repeat;
+    background-image: cover;
+    background-position: center;
+}
+.kategori-bike-matic{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('assets/black-motorcycle-white.jpg');
+    background-repeat: no-repeat;
+    background-image: cover;
+    background-position: center;
+}
+.kategori-bike-custom{
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('assets/biker-2572590_1280.jpg');
+    background-repeat: no-repeat;
+    background-image: cover;
+    background-position: center;
+}
+.decoration-none{
+    text-decoration: none;
+    color: whitesmoke;
+}
+.decoration-none:hover{
+    color: #CA965C;
+}
+.text-harga{
+    font-size: 22px;
+    color: #CA965C;
+}
+.image-box{
+    height:250px;
+}
+.image-box img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+.produk-terkait-image{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
